@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "내 첫 블로그 포스팅"
-date:   2015-04-18T14:25:52-05:00
+date:   2021-07-31T17:11:00-00:00
 author: Ben Centra
 categories: Dummy
 tags: post test
