@@ -9,12 +9,12 @@ exclude:
   - "/vendor/"
 
 # Site settings
-title: chaong gitlog
-subtitle: "data science study"
+title: Chaong's gitlog
+subtitle: "For Data Science Study"
 email: inchaong@gmail.com
 name: Jeong Inchaong
 description: >
-  A simple yet classy theme for your Jekyll website or blog.
+  이것 저것 열심히 해보는 깃로그입니다.
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
