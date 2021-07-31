@@ -20,7 +20,7 @@ description: >
 # root of your server.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://chaong309.github.io" # the base hostname & protocol for your site
-cover: "/assets/swiss_image.jpg"
+cover: "/assets/chaong.jpg"
 logo: "/assets/apple.png"
 
 # Build settings
