@@ -21,7 +21,7 @@ description: >
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://chaong309.github.io" # the base hostname & protocol for your site
 cover: "/assets/swiss_image.jpg"
-logo: "/assets/logo.png"
+logo: "/assets/apple.png"
 
 # Build settings
 markdown: kramdown
@@ -93,7 +93,7 @@ social:
   - name: GitHub
     icon: github
     username: ""
-    url: https://github.com/bencentra
+    url: http://www.github.com/chaong309
     desc: Fork me on GitHub
     share: false
 
