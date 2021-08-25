@@ -14,7 +14,7 @@ subtitle: "For Data Science Study"
 email: inchaong@gmail.com
 name: Jeong Inchaong
 description: >
-  이것 저것 열심히 해보는 깃로그입니다.
+  이것 저것 해보는 깃로그입니다.
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
@@ -95,12 +95,12 @@ social:
     username: ""
     url: http://www.github.com/chaong309
     desc: Fork me on GitHub
-    share: false
+    share: true
 
   - name: LinkedIn
     icon: linkedin
-    username: Ben Centra
-    url: https://www.linkedin.com/pub/ben-centra/47/769/60a
+    username: Inchaong Jeong
+    url: https://www.linkedin.com/in/%EC%9D%B8%EC%B0%BD-%EC%A0%95-900b37218/
     desc: Connect with me on LinkedIn
     share: true
 
